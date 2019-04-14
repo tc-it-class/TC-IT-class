@@ -38,16 +38,16 @@
 答：我们拿这道‘简单的打印’来举例：[简单的打印OJ题](http://oj.tcfamilies.com/problem/Ex-1-1)。可以看到题目的输入是一个整数（注意是OJ后台自动给的输入，不是我们给的），输出是很多整数。如下面的sample例子所展示。
 
 1. 首先，如何接收这个整数？我们用python3的`input()`函数来操作。它可以把OJ给的输入作为字符串读进来。因为默认情况下是字符串的格式，所以我们要把它转化为整数：`int(input))`。这样，我们就完成了第一步：
-    ```
+    ```python
     n=int(input)
     ```
 2. 然后，我们按照要求把1到n的数都打出来，就是正常的用range()来遍历然后输出。
-    ```
+    ```python
     for i in range(1,n+1):	
         print(i)			
     ```	
 最终的代码就是：
-```
+```python
 n=int(input)
 for i in range(1,n+1):	
     print(i)
