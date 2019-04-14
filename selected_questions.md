@@ -58,5 +58,8 @@ for i in range(1,n+1):
 
 大家可以把这段代码放到一个文件里，比如`simple_print.py`，然后在terminal中使用python3来执行它：`python3 simple_print.py`
 
+**问：如果有多行输入呢**
+`input()`只能一次输入多行，所以如果是多行输入的话需要多次使用input函数。输出也是一样，一次`print()`就是一行，多行的话就要print多次。
+
 
 
