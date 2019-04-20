@@ -166,5 +166,5 @@ for i in range(10):
     print(a[i], end = " ")
 ```
 
-
+最终的完全版代码在：[交换十个数完全版参考答案](https://github.com/tc-it-class/TC-IT-class/blob/master/exchange.py)
 
