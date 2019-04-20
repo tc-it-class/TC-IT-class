@@ -201,7 +201,7 @@ Spam
 
 内置函数的组合规则，在用户自定义函数上也同样可用，所以我们可以对print_twice使用任何表达式作为实参：
 
-```
+```python
 >>> print_twice('Sapm' *4)
 Spam Sapm Spam Sapm
 Spam Sapm Spam Sapm
@@ -216,7 +216,7 @@ Spam Sapm Spam Sapm
 
 你也可以使用变量作为实参：
 
-```
+```python
 >>> michael = "Eric, the half a bee."
 >>> print_twice(michael)
 Eric, the half abee.
