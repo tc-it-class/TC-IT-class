@@ -1,6 +1,8 @@
-# TC IT 特训班
+# 精选问题
 
-[精选答疑问题整理请戳我](https://github.com/sandy2008/TC-IT-class/blob/master/selected_questions.md)
+-[精选答疑问题整理请戳我](https://github.com/sandy2008/TC-IT-class/blob/master/selected_questions.md)
+
+我们在这里使用Github作为平台，来方便帮大家答疑技术学术问题。我们精选同学们在群中的技术提问并整理在这里。这样可以为了方便大家未来对这些问题进行复习与回顾，也可以帮助大家看到在整个学习过程中大家的进步，最终达到进一步帮助大家最快最好地学习IT知识的目的。
 
 # 精选网站链接
 
