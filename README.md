@@ -18,3 +18,5 @@
 
 - [Computer Organization And Design(5th Edition)](https://github.com/tc-it-class/TC-IT-class/blob/master/%E5%8F%82%E8%80%83%E8%AF%BB%E7%89%A9/Computer%20Organization%20And%20Design(5th%20Edition)%20-%20MIPS.zip)
 In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation.
+
+- [Deep Learning for Natural Language Processing](https://github.com/tc-it-class/TC-IT-class/blob/master/%E5%8F%82%E8%80%83%E8%AF%BB%E7%89%A9/deep_learning_for_nlp.pdf)
