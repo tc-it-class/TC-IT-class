@@ -120,3 +120,51 @@ p2.scatter(a,b)
 plt.show()
 ```
 
+## 3D
+用matplotlib可以实现酷炫吊炸天的3D效果，绝对是PPT上的装逼利器。
+
+比如简单的可以画一个3D的三角形
+
+![alt text](images/6.png)
+
+```
+#导入pyplot包，并简写为plt
+import matplotlib.pyplot as plt
+
+#导入3D包
+from mpl_toolkits.mplot3d import Axes3D
+
+#将绘画框进行对象化
+fig = plt.figure()
+
+#将绘画框划分为1个子图，并指定为3D图
+ax = fig.add_subplot(111, projection='3d')
+
+#定义X,Y,Z三个坐标轴的数据集
+X = [1, 1, 2, 2]
+Y = [3, 4, 4, 3]
+Z = [1, 100, 1, 1]
+
+#用函数填满4个点组成的三角形空间
+ax.plot_trisurf(X, Y, Z)
+plt.show()
+```
+
+还可以画3D人物肖像
+
+
+![alt text](images/7.png)
+
+结合一些三角形函数，可以画出酷炫的彩色曲面
+
+![alt text](images/8.png)
+
+## John D. Hunter
+Matplotlib是John D. Hunter在2008年左右的博士后研究中发明出来的，最初只是为了可视化癞痢病人的一些健康指标，慢慢的Matplotlib变成了Python上最广泛使用的可视化工具包。
+
+John D. Hunter本人在普林斯顿大学获得本科学位，然后2004年去了芝加哥大学拿到了博士学位，毕业后从事量化分析的工作。
+
+这位年轻有为的博士一生短暂，仅活了44岁，在2012年8月28日因为癌症去世了，去世后成立了一个助学金，继续为推动全球技术发展尽一分力。
+
+
+![alt text](images/9.png)
