@@ -179,8 +179,8 @@ Python函数有两种类型参数，一种是函数定义里的形参，一种�
 
 ```python
 def print_twice(bruce):
-    print bruce
-    print bruce
+    print (bruce)
+    print (bruce)
 ```
 
 这个函数的作用是：在调用的时候会把实参的值，给形参bruce，并将其输出2次。
