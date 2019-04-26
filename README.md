@@ -20,3 +20,5 @@
 In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation.
 
 - [Deep Learning for Natural Language Processing](https://github.com/tc-it-class/TC-IT-class/blob/master/%E5%8F%82%E8%80%83%E8%AF%BB%E7%89%A9/deep_learning_for_nlp.pdf)
+
+- [Python 数据结构实现与可视化](https://zhuanlan.zhihu.com/p/63754427?utm_source=wechat_session&utm_medium=social&utm_oi=545224207374671872)
