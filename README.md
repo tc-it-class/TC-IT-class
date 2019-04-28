@@ -1,6 +1,11 @@
 ![GitHub](https://img.shields.io/github/license/tc-it-class/tc-it-class.svg)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+# 课程资料
+- [机器学习 Project 1](https://github.com/tc-it-class/TC-IT-class/tree/master/Project_1)
+
+- [Python 可视化](https://github.com/tc-it-class/TC-IT-class/blob/master/matplotlib.md)
+
 # 精选问题
 
 - [精选答疑问题整理请戳我](https://github.com/sandy2008/TC-IT-class/blob/master/selected_questions.md)
@@ -14,6 +19,9 @@
 
 - [TC论坛](http://tcfamilies.com)
 这是同学们互相交流的网站。
+
+- [996 ICU](https://github.com/996icu/996.ICU)
+996.ICU 是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
 
 # 参考读物
 
