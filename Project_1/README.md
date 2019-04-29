@@ -1,5 +1,7 @@
 # Machine Learning Project 1 
 
+![header](figures/evolutionjpg.jpeg)
+
 CS系的学生在学习学校课程的时候，基本上每门需要写代码的课都会有几个Project。每个Project基本上都是在上手时会觉得比较困难，但是随着一点一点的思索与琢磨，大家终将寻找到答案。
 
 Project是十分能够锻炼人的综合能力的，因为大家以后进入公司面对的实际问题，很可能是已经经手多人甚至多年，已经被写下了上千上万行代码的大项目，而你要做的是尽可能去理解其他人写的代码，然后在自己要补充的部分添加上自己的智慧。这需要你的代码基础，耐心，理解能力，创造力等等。当经历过这些再回首，将会有种豁然开朗的感觉。
@@ -42,5 +44,21 @@ Project是十分能够锻炼人的综合能力的，因为大家以后进入公�
 
 ## 操作指南
 
-* 若要看到一个dna文件的具体跨栏情况，可以在terminal中先通过`cd`移动到代码所在目录，然后`python3 hurdling.py dna_file`来查看此dna的情况。若你的dna文件不是这个名字，就用你的dna名字来代替`dna_file`。比如我们提供一个按照参考答案（未公布）训练了100代的dna，可以输入`python3 hurdling.py dna_file_gen100`来查看情况。把terminal窗口缩小到只能显示一行会效果更好哦。
 * 若要训练，可以在terminal中先通过`cd`移动到代码所在目录，然后`python3 hurdling_AI.py`来训练。当然如果你没完成`evolutionary_train()`函数的补全的话，训练是不会有用的。
+* 若要看到一个dna文件的具体跨栏情况，可以在terminal中先通过`cd`移动到代码所在目录，然后`python3 hurdling.py dna_file`来查看此dna的情况。若你的dna文件不是这个名字，就用你的dna名字来代替`dna_file`。比如我们提供一个按照参考答案（未公布）训练了100代的dna，可以输入`python3 hurdling.py dna_file_gen100`来查看情况。把terminal窗口缩小到只能显示一行会效果更好哦。比如我自己写的版本的几个代数的情况：
+  
+    第1代：     
+    
+    <img src="figures/gen1.gif" alt="drawing" width="200"/>
+    
+    第100代：
+    
+    <img src="figures/gen100.gif" alt="drawing" width="200"/>
+    
+    第1000代：
+    
+    <img src="figures/gen1000.gif" alt="drawing" width="200"/>
+    
+    第10000代：
+    
+    <img src="figures/gen10000.gif" alt="drawing" width="200"/>
