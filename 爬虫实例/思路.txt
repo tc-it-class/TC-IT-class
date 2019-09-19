@@ -1,0 +1,40 @@
+﻿https://www.renttherunway.com/products/clothing?filters%5Bzip_code%5D=10014&filters%5Bduration%5D=4&filters%5Bdate%5D=2019-10-15&filters%5BcanonicalSizes%5D%5B%5D=3&filters%5BcanonicalSizes%5D%5B%5D=4&filters%5BcanonicalSizes%5D%5B%5D=6&filters%5BcanonicalSizes%5D%5B%5D=16&sort=recommended&_=1568797351716&page=1
+
+
+【一览页】
+需要获取的内容：
+name（名称）
+category（分类）
+price（价格）
+
+笔记：
+grid-product-card
+>heart-container
+>primary-area
+>grid-product-card-detail-link
+-->a 就是url
+
+>grid-product-card-meta
+>grid-product-card-info
+>grid-product-card-designer label
+-->分类
+-->span <grid-product-card-display-name proxima small-copy>
+
+价格：
+product-card-price__regular
+
+
+【子页】
+image（图片）
+（正则）featured-image'\ src=\'(.*)\'\ item
+class=featured-image
+
+
+notes（设计师笔记）
+data-reactid="132"
+
+size（尺码）
+data-reactid="136"
+
+description（详细）
+data-reactid="140"
